@@ -3,4 +3,5 @@
 JavaScript has no .title method, but that won't stop us!  Use the string methods you know to print 'Title Case' from 'title case'. */
 
 let notTitle = 'title case';
+
 console.log(notTitle.replace("t","T").replace("c","C"));
